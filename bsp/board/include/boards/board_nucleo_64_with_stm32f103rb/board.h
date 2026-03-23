@@ -55,6 +55,7 @@ extern "C"
 #define BOARD_NAME "Nucleo-F103RB"
 
 #include "hal_target.h"
+#include "shield.h"
 
 // Mapping
 #define HEADER_CONNECTOR_CN1_D1  	GPIO_PC10
