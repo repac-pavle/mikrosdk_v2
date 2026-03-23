@@ -52,6 +52,7 @@ extern "C"
 #define BOARD_NAME "Nucleo-H753ZI"
 
 #include "hal_target.h"
+#include "shield.h"
 
 // Mapping
 #define HEADER_CONNECTOR_CN1_D1  	// Pin not routed

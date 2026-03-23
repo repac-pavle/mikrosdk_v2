@@ -55,6 +55,7 @@ extern "C"
 #define BOARD_NAME "Nucleo-F439ZI"
 
 #include "hal_target.h"
+#include "shield.h"
 
 // Mapping
 #define HEADER_CONNECTOR_CN7_D1  	GPIO_PC6
